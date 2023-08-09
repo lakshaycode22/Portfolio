@@ -117,7 +117,7 @@ import {
       company_name: "Winions",
       icon: winions,
       iconBg: "#1d2f45",
-      date: "August 2022 - January 2023",
+      date: "November 2022 - May 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers and other developers to create high-quality products.",
